@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:collection xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <marc:record>
+        <marc:leader>     njs a22     2u 4500</marc:leader>
+        <marc:controlfield tag="001">00-AA-0000004</marc:controlfield>
+        <marc:controlfield tag="005">20201030235722.0</marc:controlfield>
+        <marc:controlfield tag="008">201030s||||||||-hkovz|fsaefh#######eng|d</marc:controlfield>
+        <marc:datafield tag="024" ind1="1" ind2="1">
+            <marc:subfield code="a">038081361550</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Orchestral Music - SPATA, D. / MEYER, R. / GLINKA, M.I. / KERR, R. / MOZART, W.A. / GRIEG, E. / HAYDN, J. (String and Full Orchestra, 2007-2008)</marc:subfield>
+            <marc:subfield code="h">[electronic resource]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Hong Kong :</marc:subfield>
+            <marc:subfield code="b">Naxos Digital Services US Inc.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 online resource</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services electronic collection.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Streaming audio.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">Agincourt (03 min. 13 sec.) / Spata -- A Festival of Lights (arr. B. Caputo) (05 min. 34 sec.) /  -- Carpe Diem! (05 min. 32 sec.) / Meyer -- Ruslan and Lyudmila, Op. 5: Overture (arr. R. Sieving) (05 min. 02 sec.) / Glinka -- American Serenade Symphony: II. Gathering Storms (02 min. 54 sec.) / Kerr -- Symphony No. 25 in G Minor, K. 183: I. Allegro con brio (arr. D. Brubaker) (06 min. 29 sec.) / Mozart -- Bio Rhythms (03 min. 08 sec.) / Meyer -- A Grieg Portrait (arr. J. Cacavas) (03 min. 24 sec.) / Grieg -- Symphony No. 94 in G Major, Hob.I:94, "The Suprise": II. Andante (arr. R. Meyer) (05 min. 19 sec.) / Haydn -- Capriccio Italien, Op. 45 (arr. R. Meyer) (04 min. 32 sec.) / Tchaikovsky -- Tannhauser: Grand March (arr. V. Leidig) (06 min. 38 sec.) / Wagner -- Rockin' It! (02 min. 52 sec.) / Lieberman -- Lebedike Honga (A Lively Honga) (arr. J.L. Lieberman) (02 min. 17 sec.) /  -- Creaking Tree (arr. B. Phillips) (04 min. 26 sec.) / Anger -- Isma'a (arr. L. Darling) (04 min. 18 sec.) /  -- Washburn County (04 min. 19 sec.) / Sabien -- Les Quebecois (arr. A.H. Dabczynski) (05 min. 06 sec.) /  -- Danny Rocks (arr. B. Phillips) (03 min. 47 sec.) /  -- Bach's Lunch (after J.S. Bach's Concerto for 2 Violins in D Minor, BWV 1043) (03 min. 32 sec.) / Seidenberg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="1" ind2=" ">
+            <marc:subfield code="a">Access restricted to subscribers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="511" ind1="0" ind2=" ">
+            <marc:subfield code="a">Studio conductor,, Conductor -- Alfred String Orchestra, Orchestra -- Alfred Full Orchestra, Orchestra -- Grieg, Edvard, Composer -- Cacavas, John, Arranger -- Glinka, Mikhail Ivanovich, Composer -- Sieving, Robert, Arranger -- Meyer, Richard, Composer -- Traditional, Composer -- Caputo, Bud, Arranger -- Sabien, Randy, Composer -- Darling, Leanne, Arranger -- Lieberman, Julie Lyonn, Arranger -- Anger, Darol, Composer -- Phillips, Bob, Arranger -- Spata, Doug, Composer -- Mozart, Wolfgang Amadeus, Composer -- Brubaker, Don, Arranger -- Haydn, Franz Joseph, Composer -- Seidenberg, Danny, Composer -- Wagner, Richard, Composer -- Leidig, Vernon, Arranger -- Kerr, Robert, Composer -- Dabczynski, Andrew H., Arranger -- Tchaikovsky, Pyotr Il'yich, Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="538" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mode of access: Available online.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">Classical Music</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Grieg, Edvard</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Cacavas, John</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Glinka, Mikhail Ivanovich</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Sieving, Robert</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Meyer, Richard</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Traditional</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Caputo, Bud</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Sabien, Randy</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Darling, Leanne</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lieberman, Julie Lyonn</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Anger, Darol</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Phillips, Bob</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Spata, Doug</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Mozart, Wolfgang Amadeus</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Brubaker, Don</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Haydn, Franz Joseph</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Seidenberg, Danny</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Wagner, Richard</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Leidig, Vernon</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kerr, Robert</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dabczynski, Andrew H.</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Tchaikovsky, Pyotr Il'yich</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services US</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://univportal.naxosmusiclibrary.com/catalogue/item.asp?cid=00-AA-0000004</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

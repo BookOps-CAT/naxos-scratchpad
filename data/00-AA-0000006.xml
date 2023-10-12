@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:collection xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <marc:record>
+        <marc:leader>     njs a22     2u 4500</marc:leader>
+        <marc:controlfield tag="001">00-AA-0000006</marc:controlfield>
+        <marc:controlfield tag="005">20201030235722.0</marc:controlfield>
+        <marc:controlfield tag="008">201030s||||||||-hkmuz|fsaefh#######eng|d</marc:controlfield>
+        <marc:datafield tag="024" ind1="1" ind2="1">
+            <marc:subfield code="a">038081361574</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Band Music - MIXON, K. / RAVEL, M. / LUCAS, E.R. / STORY, M. / LOPEZ, V. / STROMMEN, C. (Belwin Concert Band, 2006-2007) (Alfred Concert Band)</marc:subfield>
+            <marc:subfield code="h">[electronic resource]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Hong Kong :</marc:subfield>
+            <marc:subfield code="b">Naxos Digital Services US Inc.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 online resource</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services electronic collection.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Streaming audio.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">Native American Homage (03 min. 59 sec.) / Mixon -- Pavane pour une infante defunte (arr. J. Brubaker) (04 min. 26 sec.) / Ravel -- Prince Ivan and Vaselisa (04 min. 40 sec.) / Lucas -- Folk Songs from the British Isles (arr. D. Wagner) (03 min. 51 sec.) /  -- Rails West! (A Tale of the Odessa Puddle Jumper) (02 min. 37 sec.) / Story -- Appalachian Carol (arr. J. Brubaker) (03 min. 51 sec.) /  -- Silver Winds (05 min. 05 sec.) / Lopez -- Flourish for a Celebration (02 min. 18 sec.) / Strommen -- Buffalo Dances (08 min. 47 sec.) / Smith -- Rising Dragons (09 min. 15 sec.) / Smith -- Heritage (07 min. 45 sec.) / Brubaker -- Symphonic Dance (arr. W. Berz) (03 min. 27 sec.) / Reed</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="1" ind2=" ">
+            <marc:subfield code="a">Access restricted to subscribers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="511" ind1="0" ind2=" ">
+            <marc:subfield code="a">Studio conductor,, Conductor -- Alfred Concert Band, Orchestra -- Lopez, Victor, Composer -- Smith, Robert W., Composer -- Lucas, Elena Roussanova, Composer -- Ravel, Maurice, Composer -- Brubaker, Jerry, Arranger -- Traditional, Composer -- Reed, Herbert Owen, Composer -- Berz, William, Arranger -- Wagner, Douglas, Arranger -- Mixon, Kevin, Composer -- Story, Michael, Composer -- Strommen, Carl, Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="538" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mode of access: Available online.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">Classical Music</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lopez, Victor</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Smith, Robert W.</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lucas, Elena Roussanova</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Ravel, Maurice</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Brubaker, Jerry</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Traditional</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Reed, Herbert Owen</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Berz, William</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Wagner, Douglas</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Mixon, Kevin</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Story, Michael</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Strommen, Carl</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services US</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://univportal.naxosmusiclibrary.com/catalogue/item.asp?cid=00-AA-0000006</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

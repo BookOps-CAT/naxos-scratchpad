@@ -3,8 +3,10 @@ from pymarc import marcxml
 
 def marcified(naxos):
     rec = (marcxml.parse_xml_to_array(naxos))
-    rec = rec[0]
-    return rec
+    #rec = rec[0]
+    #return rec
+    #as discussed
+    return rec[0]
 
 if __name__ == "__main__":
     directory = "C:/Users/BookOps/Documents/GitHub/naxos/NAXOS_xml"
