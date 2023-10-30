@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:collection xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <marc:record>
+        <marc:leader>     njs a22     2u 4500</marc:leader>
+        <marc:controlfield tag="001">00-AA-0000003</marc:controlfield>
+        <marc:controlfield tag="005">20201030235722.0</marc:controlfield>
+        <marc:controlfield tag="008">201030s||||||||-hkovz|fsaefh#######eng|d</marc:controlfield>
+        <marc:datafield tag="024" ind1="1" ind2="1">
+            <marc:subfield code="a">038081361543</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Orchestral Music - MEYER, R. / O'REILLY, J. / SIENNICKI, E. / PHILLIPS, B. / TCHAIKOVSKY, P.I. (String and Full Orchestra, 2006-2007)</marc:subfield>
+            <marc:subfield code="h">[electronic resource]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Hong Kong :</marc:subfield>
+            <marc:subfield code="b">Naxos Digital Services US Inc.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 online resource</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services electronic collection.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Streaming audio.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">Millennium (08 min. 27 sec.) / Meyer -- A Mozart Mix (02 min. 19 sec.) / O'Reilly -- Blue Heron (02 min. 05 sec.) / Siennicki -- I've Been Working on the Railroad (arr. E.J. Siennicki) (02 min. 10 sec.) /  -- A French Noel (arr. M. Williams) (01 min. 47 sec.) /  -- Starfleet (02 min. 31 sec.) / Meyer -- Subterranean Dance (02 min. 20 sec.) / Phillips -- Symphony No. 2 in C Minor, Op. 17, "Little Russian": II. Andante marziale, quasi moderato (arr. R. Meyer) (02 min. 25 sec.) / Tchaikovsky -- Fiddles Down Under (arr. A. Dabczynski) (01 min. 44 sec.) /  -- Musik of Shakespeare's Daye (06 min. 42 sec.) / Dabczynski -- Lute Concerto in D Major, RV 93: I. Allegro (arr. B. Phillips) (01 min. 50 sec.) / Vivaldi -- Avatar (02 min. 08 sec.) / Spata -- Unbridled (02 min. 38 sec.) / Spata -- Moodscape (03 min. 23 sec.) / Day -- Avalanche (02 min. 41 sec.) / Hopkins -- Divertimento in F Major, K. 138, "Salzburg Symphony No. 3": I. Allegro (arr. B. McBrien) (03 min. 25 sec.) / Mozart -- All the Pretty Little Horses (03 min. 19 sec.) /  -- Keemo Kymo (arr. C.L. Gruselle) (02 min. NaN sec.) /  -- Indigo Mountain (02 min. 31 sec.) / Day -- Freedom Train (03 min. 05 sec.) / Sieving -- Circinus (04 min. 22 sec.) / Atwell -- Kentucky Jam (02 min. 34 sec.) / Atwell</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="1" ind2=" ">
+            <marc:subfield code="a">Access restricted to subscribers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="511" ind1="0" ind2=" ">
+            <marc:subfield code="a">Studio conductor,, Conductor -- Alfred Full Orchestra, Orchestra -- Alfred String Orchestra, Orchestra -- Sieving, Robert, Composer -- Meyer, Richard, Composer -- Atwell, Shirl Jae, Composer -- Day, Susan H., Composer -- O'Reilly, John, Composer -- Dabczynski, Andrew H., Composer -- Mozart, Wolfgang Amadeus, Composer -- McBrien, Brendan, Arranger -- Traditional, Composer -- Siennicki, Edmund J., Composer -- Vivaldi, Antonio, Composer -- Phillips, Bob, Arranger -- Spata, Doug, Composer -- Hopkins, Michael, Composer -- Gruselle, Carrie Lane, Arranger -- Tchaikovsky, Pyotr Il'yich, Composer -- Williams, Mark, Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="538" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mode of access: Available online.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">Classical Music</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Sieving, Robert</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Meyer, Richard</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Atwell, Shirl Jae</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Day, Susan H.</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">O'Reilly, John</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dabczynski, Andrew H.</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Mozart, Wolfgang Amadeus</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">McBrien, Brendan</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Traditional</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Siennicki, Edmund J.</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Vivaldi, Antonio</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Phillips, Bob</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Spata, Doug</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hopkins, Michael</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gruselle, Carrie Lane</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Tchaikovsky, Pyotr Il'yich</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Williams, Mark</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services US</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://univportal.naxosmusiclibrary.com/catalogue/item.asp?cid=00-AA-0000003</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

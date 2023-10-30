@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:collection xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <marc:record>
+        <marc:leader>     njs a22     2u 4500</marc:leader>
+        <marc:controlfield tag="001">00-AA-0000001</marc:controlfield>
+        <marc:controlfield tag="005">20201030235721.0</marc:controlfield>
+        <marc:controlfield tag="008">201030s||||||||-hkmuz|fsaefh#######eng|d</marc:controlfield>
+        <marc:datafield tag="024" ind1="1" ind2="1">
+            <marc:subfield code="a">038081361529</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Band Music - WILLIAMS, M. / O'REILLY, J. / BASS, R.A. / SHELDON, R. / CHOPIN, F. / HODGES, S. (Concert Band, 2007-2008) (Alfred Concert Band)</marc:subfield>
+            <marc:subfield code="h">[electronic resource]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Hong Kong :</marc:subfield>
+            <marc:subfield code="b">Naxos Digital Services US Inc.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 online resource</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services electronic collection.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Streaming audio.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">Pirates' Cave (02 min. 02 sec.) / Williams -- Two Bridges March (01 min. 50 sec.) / Williams -- The Big Three (03 min. 06 sec.) / O'Reilly -- Procession of the Kings (02 min. 01 sec.) / O'Reilly -- No Drummer Left Behind (02 min. 08 sec.) / Williams -- O Little Town of Bethlehem (03 min. 02 sec.) / Williams -- Mountain Songs (02 min. 29 sec.) / Williams -- African Spirit Dance (01 min. 57 sec.) / O'Reilly -- Marching Marines (01 min. 38 sec.) / O'Reilly -- Temple of Sinawava (02 min. 51 sec.) / O'Reilly -- The Night Before Christmas (06 min. 41 sec.) / Bass -- Requiem to a Land Forgotten (05 min. NaN sec.) / Sheldon -- Charleston Harbor Celebration (05 min. 09 sec.) / Sheldon -- Polonaise No. 3 in A Major, Op. 40, No. 1, "Military" (arr. L.C. Harnsberger) (03 min. 44 sec.) / Chopin -- Medal of Valor (03 min. 13 sec.) / Hodges -- Snow Day Celebration! (02 min. 54 sec.) / Stein -- Eire (04 min. 04 sec.) / Donahue -- Symphony of Prayer: I. Adoration (09 min. 30 sec.) / Schmidt -- River Songs of the South (06 min. 21 sec.) / Harbinson -- Flourish for Winds (03 min. 09 sec.) / Fagan -- Tintagel Suite (07 min. 18 sec.) / O'Reilly -- Clouds That Sail in Heaven (02 min. 11 sec.) / Stalter -- Songs of Old Kentucky (06 min. 40 sec.) / Karrick -- Nalukataq (06 min. 26 sec.) / Strommen -- Foundation (11 min. 27 sec.) / Camphouse -- Soul Express (02 min. 37 sec.) / Hodges -- Misterioso (02 min. 19 sec.) / Hodges -- New Life Celebration (02 min. 21 sec.) / Hodges -- Symphony No. 9 in E Minor, Op. 95, B. 178, "From the New World": II. Largo (arr. M. Williams) (04 min. 19 sec.) / Dvořák -- Albemarle Fantasy (03 min. 43 sec.) / Williams -- March Chromatica (02 min. 12 sec.) / Williams -- The Merry Christmas Machine (02 min. 32 sec.) / Williams -- Sugar Creek Overture (03 min. 24 sec.) / Sheldon -- Integrity, Op. 123 (01 min. 49 sec.) / Sheldon -- There Will Come Soft Rains (02 min. 53 sec.) / Sheldon -- An Australian Sea Ballad (02 min. 52 sec.) / Sheldon -- Defender of Time (01 min. 53 sec.) / Grice -- The Escape of the Shadow Men (02 min. 47 sec.) / Kopetz -- Ghosts in the Graveyard (03 min. 04 sec.) / Watson -- Mysteries of the Kalahari (02 min. 12 sec.) / Preuninger -- Three Carols for a Celebration (03 min. 12 sec.) / Sheldon -- Doctor Rock (02 min. 49 sec.) / Frank -- Alto Sax Marmalade (01 min. 28 sec.) / Wentz -- The Mystery of Duffy's Cut, Op. 114 (05 min. 11 sec.) / Sheldon -- The Spirit of Killian Hill (04 min. 20 sec.) / Sheldon -- A Cambridge Carol (02 min. 33 sec.) / Gassi -- Algorhythms (03 min. 46 sec.) / Fagan -- Reflection and Celebration (04 min. 34 sec.) / Jenkins -- Aeolian Winds (02 min. 25 sec.) / Edmunds -- Photo Finish! (03 min. 22 sec.) / Karrick -- Bella Beach (03 min. 16 sec.) / Hodges -- Contraption (03 min. 51 sec.) / McBrien -- Poeme (02 min. 42 sec.) / Stalter -- Ever More Distant (03 min. 14 sec.) / Akey -- In Honor of the Fallen (04 min. 47 sec.) / Milner -- Flight of the Intrepid (03 min. 20 sec.) / Gassi -- Semper Melior (02 min. 51 sec.) / Fannin</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="1" ind2=" ">
+            <marc:subfield code="a">Access restricted to subscribers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="511" ind1="0" ind2=" ">
+            <marc:subfield code="a">Studio conductor,, Conductor -- Alfred Concert Band, Orchestra -- Frank, Steve V., Composer -- Milner, Barry, Composer -- Williams, Mark, Composer -- Sheldon, Robert, Composer -- Dvořák, Antonín, Composer -- O'Reilly, John, Composer -- Chopin, Fryderyk, Composer -- Harnsberger, L.C., Arranger -- Jenkins, Darren W., Composer -- Karrick, Brant, Composer -- Watson, Scott, Composer -- Hodges, Steve, Composer -- McBrien, Brendan, Composer -- Kopetz, Barry, Composer -- Grice, Rob, Composer -- Fagan, Gary, Composer -- Stein, Alan, Composer -- Bass, Randol Alan, Composer -- Camphouse, Mark, Composer -- Edmunds, John F., Composer -- Gassi, Vince, Composer -- Stalter, Todd, Composer -- Akey, Douglas, Composer -- Harbinson, William, Composer -- Fannin, John, Composer -- Wentz, Edward C., Composer -- Donahue, Melanie, Composer -- Strommen, Carl, Composer -- Schmidt, J. Eric, Composer -- Preuninger, Bruce, Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="538" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mode of access: Available online.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">Classical Music</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Frank, Steve V.</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Milner, Barry</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Williams, Mark</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Sheldon, Robert</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dvořák, Antonín</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">O'Reilly, John</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Chopin, Fryderyk</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Harnsberger, L.C.</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Jenkins, Darren W.</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Karrick, Brant</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Watson, Scott</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hodges, Steve</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">McBrien, Brendan</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kopetz, Barry</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Grice, Rob</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fagan, Gary</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Stein, Alan</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Bass, Randol Alan</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Camphouse, Mark</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Edmunds, John F.</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gassi, Vince</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Stalter, Todd</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Akey, Douglas</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Harbinson, William</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fannin, John</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Wentz, Edward C.</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Donahue, Melanie</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Strommen, Carl</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Schmidt, J. Eric</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Preuninger, Bruce</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services US</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://univportal.naxosmusiclibrary.com/catalogue/item.asp?cid=00-AA-0000001</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

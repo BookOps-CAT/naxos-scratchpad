@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:collection xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <marc:record>
+        <marc:leader>     njs a22     2u 4500</marc:leader>
+        <marc:controlfield tag="001">00-AA-0000005</marc:controlfield>
+        <marc:controlfield tag="005">20201030235722.0</marc:controlfield>
+        <marc:controlfield tag="008">201030s||||||||-hkovz|fsaefh#######eng|d</marc:controlfield>
+        <marc:datafield tag="024" ind1="1" ind2="1">
+            <marc:subfield code="a">038081361567</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Orchestral Music - PHILLIPS, B. / DAY, S. / SIEGLER, R. / MEYER, R. / HAYDN, J. / HOLST, G. / SPATA, D. (String and Full Orchestra, 2009-2010)</marc:subfield>
+            <marc:subfield code="h">[electronic resource]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Hong Kong :</marc:subfield>
+            <marc:subfield code="b">Naxos Digital Services US Inc.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 online resource</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services electronic collection.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Streaming audio.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">Dia de Alegria (Day of Joy) (02 min. 31 sec.) / Phillips -- Loch Lomond (arr. C.L. Gruselle) (03 min. 04 sec.) /  -- March of the Czar (02 min. 46 sec.) / Day -- Viking Ships of Old (03 min. 40 sec.) / Day -- Mozart Variations (after Mozart's Clarinet Quintet in A Major, K. 581) (04 min. 13 sec.) / Siegler -- Ear-igami (04 min. 40 sec.) / Meyer -- Hold On (Keep Your Hand on the Plow) (arr. C.L. Gruselle) (02 min. 47 sec.) /  -- Symphony No. 44 in E Minor, Hob.I:44, "Trauersinfonie" (Mourning): IV. Presto (arr. P. Todd) (03 min. 56 sec.) / Haydn -- Suite No. 1 in E-Flat Major, Op. 28, No. 1: III. March (arr. D. Baker Monday) (02 min. 53 sec.) / Holst -- Porcupine Pantomime (02 min. 11 sec.) / Spata -- Quicksilver (02 min. 05 sec.) / Spata -- A Hero's Welcome (04 min. 37 sec.) / Spata -- Shores of Ireland (05 min. 04 sec.) / Day -- Mercurius (03 min. 44 sec.) / Atwell -- I Saw Three Ships (arr. V. Gassi) (03 min. 06 sec.) /  -- Mist Shrouded Memories (arr. B. Lipton ) (03 min. 49 sec.) /  -- Legend of Sleepy Hollow (07 min. 43 sec.) / Meyer -- Goldberg Variations, BWV 988: Air - English Suite No. 4 in F Major, BWV 809: Bourree (arr. V. Leidig) (06 min. 03 sec.) / Bach -- Souvenir d'Amerique on Yankee Doodle, Op. 17 (arr. R. England) (03 min. 21 sec.) / Vieuxtemps -- Symphony No. 4 in E Minor, Op. 98: III. Allegro giocoso (arr. R. Sieving) (05 min. 22 sec.) / Brahms -- Elegy (05 min. 23 sec.) / Bock II -- Variable Stars (05 min. 18 sec.) / Bock II -- A Birch Bay Celebration (05 min. 49 sec.) / Meyer -- Radetzky March, Op. 228 (arr. R. Meyer) (03 min. 08 sec.) / Strauss I -- Symphony No. 6 in F Major, Op. 68, "Pastoral": I. Awakening of Cheerful Feelings Upon Arrival in the Country: Allegro ma non troppo (arr. R. Meyer) (06 min. 27 sec.) / Beethoven -- Grande Processional for an Academic Occasion (arr. R. England) (05 min. 32 sec.) / Guilmant -- Suite in A Major, Op. 98b, B. 190, "American" (arr. B. McBrien) (08 min. 34 sec.) / Dvořák -- Lake Dance (06 min. 48 sec.) / Harbinson -- Tchefuncte Shuffle (04 min. 25 sec.) / Aucoin -- Twin Sisters (arr. J.L. Lieberman) (02 min. 56 sec.) /  -- Bossa Azul (04 min. 26 sec.) / Ligon -- Fourth Dimension (04 min. 12 sec.) / Sabien -- Fowl Fiddles (arr. A.H. Dabczynski) (04 min. 27 sec.) / </marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="1" ind2=" ">
+            <marc:subfield code="a">Access restricted to subscribers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="511" ind1="0" ind2=" ">
+            <marc:subfield code="a">Studio conductor,, Conductor -- Alfred String Orchestra, Orchestra -- Alfred Full Orchestra, Orchestra -- Vieuxtemps, Henry, Composer -- England, Rick, Arranger -- Meyer, Richard, Composer -- Brahms, Johannes, Composer -- Sieving, Robert, Arranger -- Bock II, Almon, Composer -- Dvořák, Antonín, Composer -- McBrien, Brendan, Arranger -- Day, Susan H., Composer -- Traditional, Composer -- Lieberman, Julie Lyonn, Arranger -- Haydn, Franz Joseph, Composer -- Parrish, Todd, Arranger -- Spata, Doug, Composer -- Strauss I, Johann, Composer -- Gruselle, Carrie Lane, Arranger -- Atwell, Shirl Jae, Composer -- Bach, Johann Sebastian, Composer -- Leidig, Vernon, Arranger -- Anonymous, Composer -- Holst, Gustav, Composer -- Baker Monday, Deborah, Arranger -- Harbinson, William, Composer -- Beethoven, Ludwig van, Composer -- Guilmant, Alexandre, Composer -- Dabczynski, Andrew H., Arranger -- Gassi, Vince, Arranger -- Lipton, Bob, Arranger -- Siegler, Ruth, Composer -- Ligon, Bert, Composer -- Sabien, Randy, Composer -- Phillips, Bob, Composer -- Aucoin, Tim, Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="538" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mode of access: Available online.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">Classical Music</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Vieuxtemps, Henry</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">England, Rick</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Meyer, Richard</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Brahms, Johannes</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Sieving, Robert</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Bock II, Almon</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dvořák, Antonín</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">McBrien, Brendan</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Day, Susan H.</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Traditional</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lieberman, Julie Lyonn</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Haydn, Franz Joseph</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Parrish, Todd</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Spata, Doug</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Strauss I, Johann</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gruselle, Carrie Lane</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Atwell, Shirl Jae</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Bach, Johann Sebastian</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Leidig, Vernon</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Anonymous</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Holst, Gustav</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Baker Monday, Deborah</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Harbinson, William</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Beethoven, Ludwig van</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Guilmant, Alexandre</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dabczynski, Andrew H.</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gassi, Vince</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lipton, Bob</marc:subfield>
+            <marc:subfield code="c">Arranger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Siegler, Ruth</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Ligon, Bert</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Sabien, Randy</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Phillips, Bob</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Aucoin, Tim</marc:subfield>
+            <marc:subfield code="c">Composer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Naxos Digital Services US</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Naxos Music Library</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://univportal.naxosmusiclibrary.com/catalogue/item.asp?cid=00-AA-0000005</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
